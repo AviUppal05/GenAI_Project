@@ -1,0 +1,16 @@
+customer_id,name,email,city,purchase_amount
+1,Alice Johnson,alice.johnson@email.com,New York,250.0
+2,Bob Smith,bob.smith@email.com,Los Angeles,480.5
+3,Carol White,carol.white@email.com,Chicago,125.75
+4,David Brown,david.brown@email.com,Houston,890.0
+5,Eve Davis,eve.davis@email.com,Phoenix,340.2
+6,Frank Miller,frank.miller@email.com,Philadelphia,512.99
+7,Grace Taylor,grace.taylor@email.com,San Antonio,199.5
+8,Henry Wilson,henry.wilson@email.com,Dallas,765.1
+9,Ivy Moore,ivy.moore@email.com,San Jose,300.0
+10,Jack Garcia,jack.garcia@email.com,Austin,945.88
+11,Karen Martinez,karen.martinez@email.com,Jacksonville,210.35
+12,Leo Rodriguez,leo.rodriguez@email.com,Fort Worth,620.05
+13,Mia Lopez,mia.lopez@email.com,Columbus,400.0
+14,Noah Hernandez,noah.hernandez@email.com,Charlotte,150.99
+15,Olivia King,olivia.king@email.com,Indianapolis,555.55

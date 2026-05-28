@@ -1,0 +1,6 @@
+customer_id,name,email,city,purchase_amount
+1,Alice Johnson,alice.johnson@email.com,New York,250.00
+2,Bob Smith,bob.smith@email.com,Los Angeles,480.50
+3,Carol White,carol.white@email.com,Chicago,125.75
+4,David Brown,david.brown@email.com,Houston,890.00
+5,Eve Davis,eve.davis@email.com,Phoenix,340.20
